@@ -1,0 +1,2 @@
+python SpacyEmotionDetection.py
+pause
